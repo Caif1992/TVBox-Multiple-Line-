@@ -1,15 +1,15 @@
 {
 	"urls":[
 		{
-			"url":"clan://localhost/tvbox/feimao.json",
+			"url":"https://raw.githubusercontent.com/Caif1992/TVBox-Multiple-Line-/refs/heads/main/TVBox/feimao.json",
 			"name":"线路1"
 		},
 		{
-			"url":"clan://localhost/tvbox/fty.json",
+			"url":"https://raw.githubusercontent.com/Caif1992/TVBox-Multiple-Line-/refs/heads/main/TVBox/fty.json",
 			"name":"线路2"
 		},
 		{
-			"url":"clan://localhost/tvbox/m.json",
+			"url":"https://raw.githubusercontent.com/Caif1992/TVBox-Multiple-Line-/refs/heads/main/TVBox/m.json",
 			"name":"线路3"
 		}
 		
