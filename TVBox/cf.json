@@ -1,5 +1,5 @@
 {
-	"urls":{
+	"urls":[
 		{
 			"url":"clan://localhost/tvbox/js/feimao.json",
 			"name":"线路1"
@@ -13,6 +13,6 @@
 			"name":"线路3"
 		}
 		
-	}
+	]
 	
 }
