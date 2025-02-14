@@ -1,0 +1,18 @@
+{
+	"urle":{
+		{
+			"url":"clan://localhost/tvbox/js/feimao.json",
+			"name":"线路1"
+		},
+		{
+			"url":"clan://localhost/tvbox/js/fty.json",
+			"name":"线路2"
+		},
+		{
+			"url":"clan://localhost/tvbox/js/m.json",
+			"name":"线路3"
+		}
+		
+	}
+	
+}
