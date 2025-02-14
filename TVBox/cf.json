@@ -1,15 +1,15 @@
 {
 	"urls":[
 		{
-			"url":"clan://localhost/tvbox/js/feimao.json",
+			"url":"clan://localhost/tvbox/feimao.json",
 			"name":"线路1"
 		},
 		{
-			"url":"clan://localhost/tvbox/js/fty.json",
+			"url":"clan://localhost/tvbox/fty.json",
 			"name":"线路2"
 		},
 		{
-			"url":"clan://localhost/tvbox/js/m.json",
+			"url":"clan://localhost/tvbox/m.json",
 			"name":"线路3"
 		}
 		
